@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5TTi1_AppMatrice_SimonArchambeau", "5TTi1_AppMatrice_SimonArchambeau\5TTi1_AppMatrice_SimonArchambeau.csproj", "{6EA0956A-68D8-49F4-A184-A64695F484BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EA0956A-68D8-49F4-A184-A64695F484BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA0956A-68D8-49F4-A184-A64695F484BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA0956A-68D8-49F4-A184-A64695F484BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA0956A-68D8-49F4-A184-A64695F484BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41C3F3E0-B0B9-47E1-8BC0-4E96E7C95D94}
+	EndGlobalSection
+EndGlobal
