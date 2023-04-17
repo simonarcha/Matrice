@@ -20,9 +20,15 @@ namespace _5TTi1_AppMatrice_SimonArchambeau
 				}
 			}
 		}
+<<<<<<< HEAD
         public void  Matrice_addition(int[,] Tab1, int[,] Tab2, out int[,] Tab3, out Boolean addition)
         {
 			addition= new Boolean();
+=======
+        public void  Matrice_addition(int[,] Tab1, int[,] Tab2, out int[,] Tab3)
+        {
+			bool addition = true;
+>>>>>>> d318ffa8df5957a36fd0af640164170de2bab2e8
 			Tab3 = new int[Tab1.GetLength(0), Tab1.GetLength(1)];
 			if (Tab1.GetLength(0) == Tab2.GetLength(0) && Tab1.GetLength(1) == Tab2.GetLength(1))
 			{
@@ -52,10 +58,17 @@ namespace _5TTi1_AppMatrice_SimonArchambeau
 			}
 		}
 
+<<<<<<< HEAD
 		public void Matrice_multiplication (int[,] matrice1, int[,] matrice2, out int[,] matriceMulti, out Boolean test)
         {
 			matriceMulti = new int[matrice1.GetLength(1), matrice2.GetLength(0)];
 			test = new Boolean();
+=======
+		 public void Matrice_multiplication (int[,] matrice1, int[,] matrice2, out int[,] matriceMulti)
+        {
+			matriceMulti = new int[matrice1.GetLength(1), matrice2.GetLength(0)];
+			bool test = true;
+>>>>>>> d318ffa8df5957a36fd0af640164170de2bab2e8
 			if (matrice1.GetLength(1) == matrice2.GetLength(0))
 			{
 				test = true;
@@ -71,6 +84,7 @@ namespace _5TTi1_AppMatrice_SimonArchambeau
 					}
 				}
 			}
+<<<<<<< HEAD
         }
         public void Matrice_Transposition(int[,] matriceA, out int[,] matriceAT)
         {
@@ -107,6 +121,12 @@ namespace _5TTi1_AppMatrice_SimonArchambeau
                 Console.WriteLine("Votre proposition : ");
                 nUser = Console.ReadLine();
             }
+=======
+			else
+			{
+				test = false;
+			}
+>>>>>>> d318ffa8df5957a36fd0af640164170de2bab2e8
         }
     }
 }

@@ -6,3 +6,13 @@ E:\t1\5TTi1_AppMatrice_SimonArchambeau\Matrice\5TTi1_AppMatrice_SimonArchambeau\
 E:\t1\5TTi1_AppMatrice_SimonArchambeau\Matrice\5TTi1_AppMatrice_SimonArchambeau\5TTi1_AppMatrice_SimonArchambeau\bin\Debug\5TTi1_AppMatrice_SimonArchambeau.pdb
 E:\t1\5TTi1_AppMatrice_SimonArchambeau\Matrice\5TTi1_AppMatrice_SimonArchambeau\5TTi1_AppMatrice_SimonArchambeau\obj\Debug\5TTi1_AppMatrice_SimonArchambeau.exe
 E:\t1\5TTi1_AppMatrice_SimonArchambeau\Matrice\5TTi1_AppMatrice_SimonArchambeau\5TTi1_AppMatrice_SimonArchambeau\obj\Debug\5TTi1_AppMatrice_SimonArchambeau.pdb
+<<<<<<< HEAD
+=======
+C:\Users\sar20\Documents\1 code\t1\5TTi1_AppMatrice_SimonArchambeau\Matrice\5TTi1_AppMatrice_SimonArchambeau\5TTi1_AppMatrice_SimonArchambeau\bin\Debug\5TTi1_AppMatrice_SimonArchambeau.exe.config
+C:\Users\sar20\Documents\1 code\t1\5TTi1_AppMatrice_SimonArchambeau\Matrice\5TTi1_AppMatrice_SimonArchambeau\5TTi1_AppMatrice_SimonArchambeau\bin\Debug\5TTi1_AppMatrice_SimonArchambeau.exe
+C:\Users\sar20\Documents\1 code\t1\5TTi1_AppMatrice_SimonArchambeau\Matrice\5TTi1_AppMatrice_SimonArchambeau\5TTi1_AppMatrice_SimonArchambeau\bin\Debug\5TTi1_AppMatrice_SimonArchambeau.pdb
+C:\Users\sar20\Documents\1 code\t1\5TTi1_AppMatrice_SimonArchambeau\Matrice\5TTi1_AppMatrice_SimonArchambeau\5TTi1_AppMatrice_SimonArchambeau\obj\Debug\5TTi1_AppMatrice_SimonArchambeau.csproj.AssemblyReference.cache
+C:\Users\sar20\Documents\1 code\t1\5TTi1_AppMatrice_SimonArchambeau\Matrice\5TTi1_AppMatrice_SimonArchambeau\5TTi1_AppMatrice_SimonArchambeau\obj\Debug\5TTi1_AppMatrice_SimonArchambeau.csproj.CoreCompileInputs.cache
+C:\Users\sar20\Documents\1 code\t1\5TTi1_AppMatrice_SimonArchambeau\Matrice\5TTi1_AppMatrice_SimonArchambeau\5TTi1_AppMatrice_SimonArchambeau\obj\Debug\5TTi1_AppMatrice_SimonArchambeau.exe
+C:\Users\sar20\Documents\1 code\t1\5TTi1_AppMatrice_SimonArchambeau\Matrice\5TTi1_AppMatrice_SimonArchambeau\5TTi1_AppMatrice_SimonArchambeau\obj\Debug\5TTi1_AppMatrice_SimonArchambeau.pdb
+>>>>>>> d318ffa8df5957a36fd0af640164170de2bab2e8
